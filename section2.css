@@ -1,0 +1,183 @@
+#section2{
+    
+    margin-top: 100px;
+    margin-left: 182px;
+    margin-bottom: 500px; 
+    
+}
+
+#section2 .img{
+    background: url(./images/section2/Group\ 10554@2x.png)  center no-repeat  ;
+    background-size: 100%;
+    object-fit: fill;
+    height: 324.97px ;
+    max-width: 1108px;
+    margin-right: 150px;
+}
+
+#section2 .img img{
+    height:60px ;
+    max-width: 131px;
+    padding-top: 50px;
+    padding-left: 450px;
+    padding-right: auto;
+}
+
+#section2 .img h2 {
+    font-family:'poppins' ;
+    color: white;
+    padding-left: 1.6em;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+#section2 .img h3{
+    font-family: 'poppins';
+    color: white;
+    padding-left: 2.6em;
+    font-size: 19px;
+    font-weight: 100;
+    margin-right: 22em;
+}
+
+#section2 .img button{
+    position:relative;
+    display: inline;
+    float: right;
+    padding:  18px 50px ;
+    background-color: white;
+    border-radius: 10px;
+    border-style: none;
+    top: -3.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-right: 2em; 
+    
+    
+}
+
+#section2 .left{
+    background:transparent url('./images/section2/Group\ 10690@2x.jpg') 0% 0% no-repeat padding-box; 
+    position: relative;
+    background-position: center;
+    width: 500px;
+    height: 330px;
+    float: left;
+    object-fit: fill;
+    background-size: 130%;
+    left: -2.3em;
+
+
+}
+
+#section2 .right {
+    font-family: 'poppins';
+    display: block;
+    float: right;
+    border-style: solid;
+    border-radius: 5px;
+    height: 17em;
+    width: 32em ;
+    border-width: 2px;
+    border-color: rgb(168, 160, 160);
+    margin-top: 1.2em;
+    margin-right: 100px;
+    
+    
+    
+
+}
+#section2 .two
+{
+    margin-bottom: 350px;
+}
+#section2 .right h2{
+    font-size: 21px;
+    font-weight: 600;
+    height: 57px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 90px;
+    padding-bottom: 10px;
+}
+
+#section2 .right h3{
+    font-size: 17px;
+    font-weight: 100;
+    height: 57px;
+    padding-left: 30px;
+    padding-right: 28px;
+}
+
+.header4{
+    background: url(./images/section2/Group\ 10557.svg) center no-repeat;
+    height: 251px;
+    max-width: 1108px;
+    display: block;
+    margin-right: 150px;
+    background-size: 100%;
+    
+}
+
+.header4 .text{
+    float: left;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    padding: 80px 70px ;
+    margin-right :440px; ;
+    padding-right: 20px;
+    max-width: 50%;
+    
+}
+
+.header4 .text h2{
+    font-size: 30px; 
+    font-weight: 100;
+}
+
+.header4 .text h3{
+    font-family: poppins;
+    font-size: 18px; 
+    font-weight: 100;
+}
+
+.header4 .button{
+    position: relative;
+    left: 25em;
+    top: -6em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    float: right;
+    /* margin-top: -170px; */
+    width: 40%;
+    padding: 16px 20px;
+    border-radius: 12px;
+    
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+}
+
+.header4 .button img{
+    position: relative;
+    top: 4px;
+    height: 25px;
+
+}
+
+.header4 .button h3{
+    font-weight: 100;
+    margin-bottom: 3px; 
+    text-align: center;
+}
+
+#section2 .image{
+    position: relative;
+    background: url(./images/Group\ 10691@2x.png);
+    top: 20em;
+    background-size: 100%;
+    width: 1012px;
+    height: 592px;
+}

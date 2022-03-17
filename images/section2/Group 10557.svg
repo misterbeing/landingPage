@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1108" height="251" viewBox="0 0 1108 251">
+  <g id="Group_10557" data-name="Group 10557" transform="translate(-15835.678 -2772.964)">
+    <rect id="Rectangle_903" data-name="Rectangle 903" width="1108" height="250" rx="23" transform="translate(15835.678 2772.964)" fill="#0670f4"/>
+    <path id="Intersection_3" data-name="Intersection 3" d="M0,1.112C0,.742,0,.369,0,0H207a23,23,0,0,1,23,23V193.983A196.625,196.625,0,0,1,195.611,197C87.577,197,0,109.3,0,1.112Z" transform="translate(16713.678 2772.964)" fill="#177dfb"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M23,251A23,23,0,0,1,0,228V23A23,23,0,0,1,23,0H340.718A244.52,244.52,0,0,1,345,45.671,242.464,242.464,0,0,1,231.889,251Z" transform="translate(15835.678 2772.964)" fill="#177dfb"/>
+    <path id="Intersection_2" data-name="Intersection 2" d="M0,0H198c0,55.229-44.324,100-99,100S0,55.229,0,0Z" transform="translate(16289.678 2772.964)" fill="#177dfb"/>
+    <ellipse id="Ellipse_174" data-name="Ellipse 174" cx="43.5" cy="44" rx="43.5" ry="44" transform="translate(16473.678 2904.964)" fill="#177dfb"/>
+    <circle id="Ellipse_175" data-name="Ellipse 175" cx="18" cy="18" r="18" transform="translate(16607.678 2811.964)" fill="#177dfb"/>
+  </g>
+</svg>

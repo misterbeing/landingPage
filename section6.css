@@ -1,0 +1,58 @@
+#section6{
+    margin-top: 90px;
+    height: 500px;
+}
+
+#section6 .body{
+    padding-left: 10%; 
+    
+    font-family: 'poppins';
+}
+#section6 h1{
+    font-size: 40px;
+    width: 693px;
+    height: 110px;
+
+}
+#section6 h3{
+    font-size: 19px;
+    width: 753px;
+    height: 135px;
+
+
+}
+
+
+
+#section6 .image{
+    background: url(./images/section6/Mask\ Group\ 101@2x.png) center no-repeat;
+    background-size: 100%;
+    position: relative;
+    top: -10em;
+    height: 789px;
+    max-width: 1440px;
+}
+
+#section6 input{
+    display: inline;
+    padding: 16px 60px;
+    margin: -3px;
+    font-size: 20px;
+    font-family: 'poppins';
+    color: aliceblue;
+}
+
+#section6 input[type=button]
+{
+    background-color: #0670F4;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px; 
+    border-color: #0670F4;
+    border-width: 1px;
+}
+
+#section6 input[type=text]{
+    border-color: #7070704D;
+    border-width: 1px;
+    border-style:solid;
+}

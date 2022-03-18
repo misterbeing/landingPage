@@ -1,0 +1,43 @@
+#section5{
+    max-width: 1440px;
+    height: 1400px;
+    
+    background-color:#EEF0F6 ;
+}
+
+#section5 .header4{
+    position: relative;
+    margin-left:175px ;
+    top: 8em;
+}
+
+.fasteel img{
+    height: 87.32px;
+    width: 87.35px;
+}
+
+.fasteel h1{
+    font-family: 'poppins';
+    font-size: 40px;
+    font-weight: 600;
+    padding-right: 100px;
+    padding-top: 35px;
+
+}
+
+.fasteel h3{
+    font-family: 'poppins';
+    font-size :19px; 
+    line-height: 35px;
+}
+
+#section5 .fastimg{
+    position: relative;
+    background: url(./images/Section5/Group\ 10695@2x.png) center no-repeat;
+    height: 432px;
+    width: 1255px;
+    background-size: 105%;
+    right: 7em;
+    top: 4em;
+
+} 

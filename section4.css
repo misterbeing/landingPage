@@ -1,5 +1,5 @@
 #section4{
-    height: 1000px;
+    height: 400px;
     max-width: 1440px;
 }
 
@@ -24,10 +24,10 @@
 #section4 .image{
     position: relative;
     object-fit: cover;
-    top: -2em;
-    right: 90px;
+    top: 4em;
+    right: px;
     background: url(./images/section4/Group\ 10693@2x.png) center no-repeat;
-    background-size: 100%;
+    background-size: 130%;
     height: 672px;
     max-width: 1730px;
     

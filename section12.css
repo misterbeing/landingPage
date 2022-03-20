@@ -1,15 +1,19 @@
 #section12{
+    
     height: 1303px;
     margin-top: 100px;
+    max-width: 1440px;
+    background: linear-gradient(180deg, #ffffff 50%, #0F4DC2 50%);
+    
 }
 
 #section12 .container
 {
-    margin-left: 100px;
+    margin-left: 70px;
     padding-top: 30px;
     background-color: rgb(255, 255, 255);
     height: 1157px;
-    width: 711px;
+    width: 700px;
     border-radius: 11px;
     box-shadow: 0px -9px 90px #00000012;
 
@@ -81,3 +85,24 @@
     border-color:#4569B38C ;
     background-color: #0F4DC2;
 }
+
+#section12 .right{
+    float: right;
+    width: 401px;
+    position: relative;
+    top: -25em;
+    right: 5em;
+    font-family: 'poppins';
+    color: #ffffff;
+}
+
+#section12 .right h1{
+    font-size: 40px;
+    
+}
+
+#section12 .right h2{
+    font-size: 23px ;
+}
+
+

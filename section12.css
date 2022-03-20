@@ -1,0 +1,83 @@
+#section12{
+    height: 1303px;
+    margin-top: 100px;
+}
+
+#section12 .container
+{
+    margin-left: 100px;
+    padding-top: 30px;
+    background-color: rgb(255, 255, 255);
+    height: 1157px;
+    width: 711px;
+    border-radius: 11px;
+    box-shadow: 0px -9px 90px #00000012;
+
+}
+#section12 form label{
+    width: 89px;
+    height: 25px;
+    font-size: 18px;
+    font-family: 'poppins';
+    line-height: 60px;
+}
+#section12 form input[type=text]{
+    display: block;
+    width: 641px;
+    height: 57px;
+    margin-bottom: 10px;    
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#4569B38C ;
+    margin-bottom: 30px;
+}
+
+#section12 form .checkbox{
+    padding-left: 0px;
+    margin-bottom: 0px;
+    cursor: pointer;
+    font-size: 19px;
+    padding-right: 40px;
+}
+
+
+#section12 form .checkbox Input[type='checkbox']{
+    border-style: solid;
+    border-width: 20px;
+    height: 35.15px;
+    width: 35.15px;
+    position: relative;
+    top: 10px;
+    /* outline: 1px solid #0F4DC2 ; */
+    
+}
+
+#section12 form textarea{
+    display: block;
+    width: 641px;
+    height: 120px;
+    margin-bottom: 10px;    
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#4569B38C ;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+
+#section12 form button{
+    position: relative;
+    top: 30px;
+    color: white;
+    font-family: 'poppins';
+    font-size: 18px;
+    display: block;
+    width: 641.25px;
+    height: 57px;    
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#4569B38C ;
+    background-color: #0F4DC2;
+}

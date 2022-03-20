@@ -1,0 +1,96 @@
+#section10{
+    margin-top: 100px;
+    max-width: 1440px;
+    height: 1000px;
+}
+#section10 h1{
+    text-align: center;
+    font-size :30px; ;
+    font-family: 'poppins';
+}
+
+#section10 img{
+    position: relative;
+    top: 9px;
+    right: 10px;
+
+}
+
+#section10 h2{
+    font-family: 'poppins';
+    text-align: center;
+    font-size: 19px;
+    font-weight: 100;
+    padding-left: 260px;
+    padding-right: 260px;
+}
+
+#section10 .flex1{
+    display: flex;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 150px;
+
+}
+
+#section10 .flex1 div{
+    height: 165px;
+    width: 313px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'poppins';
+}
+#section10 .flex1 img{
+    padding-bottom: 20px;
+}
+#section10 .flex1 h3  {
+    font-weight: bold;
+    font-size: 22px;
+    text-align: left;
+    
+}
+#section10 .flex1 h4  {
+    font-weight: 100;
+    font-size: 19px;
+    text-align: left;
+    
+}
+
+
+#section10 .flex2{
+    display: flex;
+    text-align: center;
+    padding-top: 230px;
+    padding-left: 150px;
+
+}
+
+#section10 .flex2 div{
+    font-family: 'poppins';
+    text-align: left;
+    padding-left: 130px;
+    padding-right: 100px;
+
+}
+
+#section10 .flex2 h3{
+    text-align: left;
+    font-size: 22px;
+    font-weight: bold;
+    padding-right: 100px;
+    
+}
+
+#section10 .flex2 h4{
+    text-align: left;
+    font-size: 19px;
+    font-weight: 100;
+    padding-right: 40px;
+   
+}
+
+#section10 .flex2 img{
+    padding-bottom: 20px;
+
+}
